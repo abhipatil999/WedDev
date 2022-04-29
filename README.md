@@ -1,3 +1,2 @@
 # PersonalDevProjects
-
-#THE FOLLOWING IS AN EXAMPLE OF USING A CRAWLER TO CRAWL THE TOP 100 MOVIE NAMES AND MOVIE INTRODUCTIONS ON ROTTEN TOMATOES.--
+These are some projects that I developed in my free time.
